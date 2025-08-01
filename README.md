@@ -12,7 +12,7 @@ I am a student at STR, passionate about learning and growing in the field of tec
 - Programming languages: (Add your languages here, e.g.,Python, java, C++)
 - Tools & Technologies: (Add your languages here, e.g., Git, VS code)
 
-  ## Projects
+## Projects
   You ncan check out some of my projects in repositories below.
 
 ---
