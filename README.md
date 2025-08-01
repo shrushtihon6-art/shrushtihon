@@ -1,22 +1,16 @@
-# Hi, I'm Shrushti Hon 👋
+# Hi, I'm Shrushti Hon! 👋
 
-Welcome to my GitHub profile!  
-I am a student at STR, passionate about learning and exploring new skills.
-
----
+I am a student at STR, passionate about learning and growing in the field of technology.
 
 ## About Me
+- 📚 Currently a student at STR
+- 💻 Interested in coding and software development
+- 🌱 Always eager to learn new skills and technologies
+- 🎯 Focused on building projects and improving my knowledge
+  
 
-- 🎓 Student at STR
-- 💻 Interested in technology, coding, and creative projects
-- 🌱 Currently learning and growing my skills every day
-
----
-
-## Contact
-
-- 📫 You can reach me at: [your-email@example.com] (replace with your email)
+Feel free to explore my repositories!
 
 ---
 
-Thanks for stopping by!
+Thanks for visiting my profile! 😊
