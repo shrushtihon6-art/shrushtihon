@@ -13,7 +13,7 @@ I am a student at STR, passionate about learning and growing in the field of tec
 - Tools & Technologies: (Add your languages here, e.g., Git, VS code)
 
 ## Projects
-  You ncan check out some of my projects in repositories below.
+  You can check out some of my projects in repositories below.
 
 ---
 
