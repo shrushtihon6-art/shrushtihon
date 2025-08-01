@@ -8,8 +8,12 @@ I am a student at STR, passionate about learning and growing in the field of tec
 - 🌱 Always eager to learn new skills and technologies
 - 🎯 Focused on building projects and improving my knowledge
   
+## skills
+- Programming languages: (Add your languages here, e.g.,Python, java, C++)
+- Tools & Technologies: (Add your languages here, e.g., Git, VS code)
 
-Feel free to explore my repositories!
+  ## Projects
+  You ncan check out some of my projects in repositories below.
 
 ---
 
