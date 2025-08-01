@@ -1,35 +1,22 @@
-Hi, I'm Shrushti Hon6 👋
+# Hi, I'm Shrushti Hon 👋
 
 Welcome to my GitHub profile!  
-I'm an art student at STR, passionate about creativity, design, and exploring the world of digital and traditional art.
+I am a student at STR, passionate about learning and exploring new skills.
 
 ---
 
 ## About Me
 
-- 🎨 Art student at STR
-- 💡 Exploring digital art, illustration, and creative projects
-- 📚 Always learning new techniques and tools to improve my skills
-- 🌱 Currently working on personal art projects and collaborations
+- 🎓 Student at STR
+- 💻 Interested in technology, coding, and creative projects
+- 🌱 Currently learning and growing my skills every day
 
 ---
 
-## Skills
+## Contact
 
-- Traditional Drawing & Painting
-- Digital Illustration
-- Adobe Photoshop & Illustrator
-- Procreate
-- Creativity & Visual Storytelling
+- 📫 You can reach me at: [your-email@example.com] (replace with your email)
 
 ---
 
-## Contact Me
-
-- 📫 Feel free to reach out via [email@example.com] (replace with your email)
-- 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/shrushtihon6) (replace with your link)
-
----
-
-Thanks for visiting my profile!  
-Let's create something amazing together. 🚀
+Thanks for stopping by!
